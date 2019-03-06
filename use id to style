@@ -1,0 +1,5 @@
+#cat-photo-element {
+  background-color: green;
+}
+<form action="/submit-cat-photo" id="cat-photo-form"></form>
+
