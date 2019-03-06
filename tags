@@ -1,0 +1,4 @@
+font-weight: bold;  ===<strong>
+text-decoration: underline; ===<u>
+font-style: italic; ===<i>
+text-decoration: line-through; ===<s>
