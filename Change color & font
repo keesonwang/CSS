@@ -4,3 +4,10 @@
   h2 {color: red;}
 </style>
 
+<style>
+  .blue-text {
+    color: blue;
+  }
+</style>
+<h2 class="blue-text">CatPhotoApp</h2>
+
